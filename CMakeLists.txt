@@ -3,4 +3,4 @@ project(leet)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(leet main.cpp)
+add_executable(leet N5_Longest_Palindromic_Substring/main.cpp)
